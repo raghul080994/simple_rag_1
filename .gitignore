@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Builds
+client/dist/
+server/dist/
+
+# Env and local data
+.env
+server/.env
+chroma-data/
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
